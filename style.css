@@ -1,0 +1,21 @@
+
+
+.win{
+    color:green;
+}
+
+.lose {
+    color: red;
+}
+
+.tie {
+    color: rgba(255, 187, 0, 0.979);
+}
+
+.hidden {
+    display: none;
+}
+
+span {
+    color: red;
+}

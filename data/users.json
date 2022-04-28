@@ -1,0 +1,58 @@
+{
+    "42069": {
+        "username": "admin",
+        "password": "$2y$10$aPS37HcWCREScIFOWQyOgOk2xRJvd5VslnNV3F7LSZiexK4OIU07W",
+        "email": "admin@elstadion.hu",
+        "roles": [
+            "admin",
+            "user"
+        ],
+        "id": "42069"
+    },
+    "61dd859050145": {
+        "username": "aaaaaa",
+        "password": "$2y$10$oaAXIUTMN9jBr1OjM.pJhOlizi5eSYl65yIEhX7r4cToFgiUL9RXS",
+        "email": null,
+        "roles": [
+            "user"
+        ],
+        "id": "61dd859050145"
+    },
+    "61dd8eac9ae60": {
+        "username": "valaki",
+        "password": "$2y$10$oYUyBvdYjxV8XVNCXad8jOKSOh6bL.W6Jf1oS5ukLaoAJBVdNghOW",
+        "email": "vdd@gmalkdf.com",
+        "roles": [
+            "user"
+        ],
+        "id": "61dd8eac9ae60"
+    },
+    "61dda232ed8ce": {
+        "username": "va\u00e9amis\u00e9la",
+        "password": "$2y$10$EqLCo\/YPpcjkMH6gkLCb3eH6vHRgixlAI4BeN0RQlMTRp5TkbCcpe",
+        "email": "vdd@gmalkdf.com",
+        "roles": [
+            "user"
+        ],
+        "id": "61dda232ed8ce"
+    },
+    "61dda2617f4ef": {
+        "username": "alma",
+        "password": "$2y$10$bvaSITu6E8YJRMCo50XQo.VPxh3xT82E7yAyq.0\/MDs45pSdUpkG.",
+        "email": "vdd@gmalkdf.com",
+        "roles": [
+            "user"
+        ],
+        "id": "61dda2617f4ef"
+    },
+    "61e0275a60104": {
+        "username": "nem",
+        "password": "$2y$10$QaM9ADSjHTvsU6rBrdUFP.7JxejCJV2\/o3oA55UEiP1hC1X4.45eC",
+        "email": "vdd@gmalkdf.com",
+        "roles": [
+            "user"
+        ],
+        "favorite": [],
+        "id": "61e0275a60104"
+    }
+}

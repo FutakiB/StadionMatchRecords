@@ -1,0 +1,37 @@
+{
+    "id1": {
+        "name": "Team 1",
+        "city": "City 1",
+        "id": "id1"
+    },
+    "id2": {
+        "name": "Team 2",
+        "city": "City 2",
+        "id": "id2"
+    },
+    "id3": {
+        "name": "Team 3",
+        "city": "City 3",
+        "id": "id3"
+    },
+    "id4": {
+        "name": "Team 4",
+        "city": "City 4",
+        "id": "id4"
+    },
+    "id5": {
+        "name": "Team 5",
+        "city": "City 5",
+        "id": "id5"
+    },
+    "id6": {
+        "name": "Team 6",
+        "city": "City 6",
+        "id": "id6"
+    },
+    "id7": {
+        "name": "Team 7",
+        "city": "City 7",
+        "id": "id7"
+    }
+}
