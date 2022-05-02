@@ -1,9 +1,9 @@
 
 # StadionMatchRecords
 
-Egyetemi feladat votl egy stadionnak adnoldalt készíteni
+Egyetemi feladat volt egy stadionnak  egy oldalt készíteni
 
 - felhasználói hitelesítés
-- Kommentelési lehetőség (bejelentkezett fehasználóknak)
+- Kommentelési lehetőség (bejelentkezett felhasználóknak)
 
 [//]: # (ezen a linken Próbálható ki: )
